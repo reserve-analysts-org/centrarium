@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 order: 4
 ---
-Any questions, inquiries, comments or suggestions will be gratefully recieved and acknowledged.
+Any questions, inquiries, comments or suggestions will be gratefully received and acknowledged.
 
 ### Owner
 
