@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 order: 2
 ---
-<span style="color:#c0392b">**__Reserve Analysts Associates, Inc.__**</span> provides a wide range of engineering and geological services to meet the needs of the energy industry, in the areas of economic studies, financial analyses and technical evaluations of oil and natural gas properties for use in annual reports, field development studies, sale or purchase, litigation, or regulatory hearings.
+<span style="color:#c0392b">_**Reserve Analysts Associates, Inc.**_</span> provides a wide range of engineering and geological services to meet the needs of the energy industry, in the areas of economic studies, financial analyses and technical evaluations of oil and natural gas properties for use in annual reports, field development studies, sale or purchase, litigation, or regulatory hearings.
 
 The company is experienced in the following areas:
 - Certification of Reserves 
