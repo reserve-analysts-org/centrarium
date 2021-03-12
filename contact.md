@@ -25,6 +25,25 @@ Missouri City, Texas 77459
 
 [*acbarron@reserve-analysts.com*](mailto:acbarron@reserve-analysts.com)
 
+### Personnel
+#### Associates
+
+<span style="color:#c0392b">**Kevin J. Lant, P.G., P.G.S**</span>
+
+[*klant@pelangi-resources.com*](mailto:klant@pelangi-resources.com)
+918-804-7004
+
+<span style="color:#c0392b">**Kent B. Lina, P.E.**</span>
+
+[*klina@att.net*](mailto:klina@att.net)
+303-810-3590
+
+<span style="color:#c0392b">**David G. Cole**</span>
+
+[*dc@dc-mc.com*](mailto:dc@dc-mc.com)
+713-294-0689
+
+
 <!-- ### Personnel -->
 <!-- #### Associates: -->
 <!-- * <span style="color:#c0392b">**Kevin J. Lant, P.G., P.G.S**</span>   -->
