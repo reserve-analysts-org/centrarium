@@ -36,8 +36,8 @@ Missouri City, Texas 77459
 <span style="color:#c0392b">**Kent B. Lina, P.E.**</span>
 
 | **Email** | [*klina@att.net*](mailto:klina@att.net) |
-| **Phone** | 303-810-3590  
-|
+| **Phone** | 303-810-3590                            |
+
 <span style="color:#c0392b">**David G. Cole**</span>
 
 | **Email** | [*dc@dc-mc.com*](mailto:dc@dc-mc.com) |
