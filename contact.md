@@ -28,20 +28,20 @@ Missouri City, Texas 77459
 ### Personnel
 #### Associates
 
-<span style="color:#c0392b">**Kevin J. Lant, P.G., P.G.S**</span>
+#### Kevin J. Lant, P.G., P.G.S
 
-[*klant@pelangi-resources.com*](mailto:klant@pelangi-resources.com)
-918-804-7004
+| **Email** | [*klant@pelangi-resources.com*](mailto:klant@pelangi-resources.com) |
+| **Phone** | 918-804-7004                                                        |
 
-<span style="color:#c0392b">**Kent B. Lina, P.E.**</span>
+#### Kent B. Lina, P.E.
 
-[*klina@att.net*](mailto:klina@att.net)
-303-810-3590
+| **Email** | [*klina@att.net*](mailto:klina@att.net) |
+| **Phone** | 303-810-3590                            |
 
-<span style="color:#c0392b">**David G. Cole**</span>
+#### David G. Cole
 
-[*dc@dc-mc.com*](mailto:dc@dc-mc.com)
-713-294-0689
+| **Email** | [*dc@dc-mc.com*](mailto:dc@dc-mc.com) |
+| **Phone** | 713-294-0689                          |
 
 
 <!-- ### Personnel -->
